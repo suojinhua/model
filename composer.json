@@ -6,5 +6,9 @@
             "email": "suodong1210@foxmail.com"
         }
     ],
-    "require": {}
+    "require": {},"autoload":{
+        "psr-4":{
+            "suojinhua\\model\\":""
+        }
+    }
 }
