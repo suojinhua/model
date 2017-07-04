@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * Created by PhpStorm.
  * User: Administrator
@@ -6,7 +6,7 @@
  * Time: 16:11
  */
 
-namespace houdunwang\model;
+namespace suojinhua\model;
 
 //1.写一个Model方法
 //2.通过它里面的方法来调用Base控制器来操作数据库

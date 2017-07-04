@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * Created by PhpStorm.
  * User: Administrator
@@ -6,7 +6,7 @@
  * Time: 16:12
  */
 
-namespace houdunwang\model;
+namespace suojinhua\model;
 use PDO;
 use PDOException;
 //1.创建一个操作数据库的控制器
