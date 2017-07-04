@@ -1,0 +1,10 @@
+{
+    "name": "administrator/model",
+    "authors": [
+        {
+            "name": "suojinhua",
+            "email": "suodong1210@foxmail.com"
+        }
+    ],
+    "require": {}
+}
